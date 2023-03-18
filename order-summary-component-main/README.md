@@ -8,8 +8,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Solution URL: [Add solution URL here](http://127.0.0.1:5500/order-summary-component-main/index.html)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
